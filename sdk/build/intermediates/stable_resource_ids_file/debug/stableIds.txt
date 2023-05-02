@@ -1,0 +1,6 @@
+org.opencv:styleable/CameraBridgeViewBase = 0x7f030000
+org.opencv:id/front = 0x7f020002
+org.opencv:attr/show_fps = 0x7f010001
+org.opencv:id/back = 0x7f020001
+org.opencv:id/any = 0x7f020000
+org.opencv:attr/camera_id = 0x7f010000

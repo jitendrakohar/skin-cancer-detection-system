@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">SKIN CANCER DETECTION</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_description">Skin cancer detection is a project that aims to detect skin cancer through digital image analysis. The system uses machine learning algorithms to analyze images of skin lesions and determine if they are cancerous or not. This project can be helpful for early diagnosis of skin cancer, which can lead to better treatment outcomes and improved survival rates.</string>
+    <string name="contact_group">+917232913419</string>
+    <string name="application_information_group">android java</string>
+    <string name="my_text">This is <b>bold text</b> and this is normal text.</string>
+   <string name="accept_button">Accept</string>
+    <string name="reject_button">Reject</string>
+    <string-array name="name">
+        <item> TERMS AND Condition</item>
+        <item> jitendra kohar </item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+org.opencv.sdk-pngs-0 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/build/generated/res/pngs/debug
+org.opencv.sdk-resValues-1 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/build/generated/res/resValues/debug
+org.opencv.sdk-rs-2 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/build/generated/res/rs/debug
+org.opencv.sdk-packageDebugResources-3 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+org.opencv.sdk-packageDebugResources-4 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+org.opencv.sdk-merged_res-5 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/build/intermediates/merged_res/debug
+org.opencv.sdk-java-6 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/java/res
+org.opencv.sdk-debug-7 /home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/src/debug/res

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_11sdp"
+    tools:context=".TermsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/terms_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp"
+            android:text="Terms and Conditions\n\nIntroduction\nWelcome to our Skin Cancer Detection app. These terms and conditions govern your use of this app; by using this app, you accept these terms and conditions in full. If you disagree with these terms and conditions, do not use this app.\n\nUse of the App\nOur Skin Cancer Detection app is intended for informational purposes only and is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.\n\nUser Data\nOur app may collect data from your device, including but not limited to your location, device information, and usage statistics. We use this data to improve our app and provide a better user experience. By using our app, you agree to our collection and use of this data.\n\nAccuracy of Information\nWhile we make every effort to ensure the accuracy of the information provided in our app, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the app or the information, products, services, or related graphics contained in the app for any purpose. Any reliance you place on such information is therefore strictly at your own risk.\n\nIntellectual Property\nThe content and design of this app are owned by us and are protected by copyright laws. You may not copy, reproduce, distribute, modify, or create derivative works from any part of our app without our prior written consent.\n\nIndemnification\nYou agree to indemnify, defend, and hold harmless us and our affiliates, officers, directors, employees, and agents from any and all claims, liabilities, damages, costs, and expenses, including reasonable attorneys' fees, arising from or related to your use of our app or your violation of these terms and conditions.\n\nGoverning Law\nThese terms and conditions shall be governed by and construed in accordance with the laws of [insert your jurisdiction].\n\nChanges to Terms and Conditions\nWe reserve the right to modify these terms and conditions at any time. Your continued use of the app after any changes to these terms and conditions constitutes your acceptance of such changes.\n\nContact Us\nIf you have any questions or comments about these terms and conditions, please contact us at jitendrakohar@gmail.com." />
+
+        />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_20sdp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/accept_button"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_weight="2"
+                android:text="Accept" />
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+              />
+
+            <Button
+                android:id="@+id/reject_button"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_weight="2"
+                android:text="Reject" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

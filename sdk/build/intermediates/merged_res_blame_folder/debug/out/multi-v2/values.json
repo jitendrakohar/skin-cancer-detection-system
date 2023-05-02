@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.opencv.sdk-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/jitendra/AndroidStudioProjects/skinCancerDetectiion/sdk/java/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        }
+    ]
+}
